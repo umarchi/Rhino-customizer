@@ -1,0 +1,38 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+O '_Ortho
+P '_Planar
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C '_Copy
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+Break ! _DeleteSubCrv
+SP '_SelPolysrf
+SBN '_SelBlockInstanceNamed
+SB '_SelBlockInstance
+BM '_BlockManager
+BNV '_BatchNamedView
+PL '_Polyline
+EC '_ExtrudeCrv
+ES '_ExtrudeSrf
+X '_Explode
+SC '_SelCrv
+EX '_Export
+CV '_CurveBoolean
+BU '_BooleanUnion
+BS '_BooleanSplit
+BI '_BooleanIntersection
+BD '_BooleanDifference
+AL '_ArrayLinear
+AP '_ArrarPolar
+OP '_OptionsPage
